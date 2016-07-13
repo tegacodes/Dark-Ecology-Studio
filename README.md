@@ -1,4 +1,4 @@
-# darkEcology
+# Dark Ecology Studio
 
 ##Perception of non-humans
 
