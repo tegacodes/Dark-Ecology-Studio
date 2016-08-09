@@ -18,8 +18,8 @@ We live at a time where humans have become an environmental force, a time of dar
 **Interspecies Interventions**
 
 * Interspecies relations
-* Mass extinction
-* Intervention  
+* 6th mass extinction event
+* POV and intervention  
 
 *Project: Video/performance intervention*
  
