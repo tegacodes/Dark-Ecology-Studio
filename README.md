@@ -5,7 +5,7 @@ We live at a time where humans have become an environmental force, a time of dar
 
 ##Topics
 
-* Life in the Anthropocene. Intro to dark ecology
+* Living in the Anthropocene. Intro to dark ecology
 
 **Making Infrastructures Visible**
 
@@ -38,3 +38,49 @@ We live at a time where humans have become an environmental force, a time of dar
 
 ##Readings
 * https://placesjournal.org/article/cloud-and-field/
+ 
+Schedule
+
+1. 29th August
+Introductions
+
+5th Sept - Labor day, no class.
+
+2. 12th Sept
+Ethnographic research.
+Sound recording workshop.
+
+3. 19th Sept
+Wastewater treatment plant
+
+4. 26th Sept
+Nuclear Power station
+
+5. 3rd Oct
+
+6. 10th Oct
+Project 1 due at start of class.
+
+7. 17th Oct
+
+8. 24th Oct
+
+9. 31st Oct
+Project 2 due
+
+10. 7th Nov
+
+11. 14th Nov
+
+12. 21st Nov
+
+13. 28th Nov
+
+14. 5th Dec
+Final projects due.
+
+
+
+
+
+
