@@ -103,12 +103,10 @@ You are to make a short blog post (100-200 words) each week in response to the r
 ###Part 1: Infrastructure Taxonomies
 ####1. 29th August
 
+* Set up your blog, write your first post in response to the readings this week. Send me a link to your blog.
 
 ####5th Sept - Labor day, no class.
-
-*Homework:*
-* Prepare a 1 page literature review on your system of infrastructure. Refer to the supplementary readings and resources relating to your system and how it is used. Scope the components that you will cover in your chapter/section of the guide. What will you be including and excluding? What do you not know? What do you need to find out? 
-* Set up your blog, write your first post in response to the readings this week. Send me a link to your blog.
+*Readings Due*
 
 * Jedediah Purdy, 2015, [Anthopocene Fever.](https://aeon.co/essays/should-we-be-suspicious-of-the-anthropocene-idea)
 * Larkin, Brian. "The politics and poetics of infrastructure." Annual Review of Anthropology 42 (2013): 327-343.
@@ -117,6 +115,10 @@ Supplementary
 * Edwards, Paul N. "Infrastructure and modernity: Force, time, and social organization in the history of sociotechnical systems." Modernity and technology 1 (2003). (p185-204) 
 
 ####2. 12th Sept
+*Homework due:*
+
+* Prepare a 1 page literature review on your system of infrastructure. Refer to the supplementary readings and resources relating to your system and how it is used. Scope the components that you will cover in your chapter/section of the guide. What will you be including and excluding? What do you not know? What do you need to find out? 
+*Readings Due*
 
 * Shannon Mattern, 2014, [Infrastructure Tourism](https://placesjournal.org/article/infrastructural-tourism/#ref_5)
 
