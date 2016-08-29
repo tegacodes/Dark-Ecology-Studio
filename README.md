@@ -42,7 +42,7 @@ What are the larger regional networks designed to transport materials into and a
 
 ####3. Environmental Sense and Sensibilites (week 8-14)
 
-Part 3 returns us to campus to consider our relationship to the other lifeforms and environments onsite. We will explore methods of collecting environmental data and experiment with how it can be performed. We will understanding data-driven practices as being less about sensors, and more about structuring participation and experiences that foster localized environmental literacy and stewardship.  
+Part 3 returns us to campus to consider our relationship to the other lifeforms and environments onsite. We will explore methods of collecting environmental data and experiment with how it can be performed. We will understanding data-driven practices as being less about sensors, and more about structuring participation and experiences that foster localized environmental literacy and stewardship. We will be exploring analogue methods of sensing, as well as open source hardware and software tools. 
 
 **Assignment:** Eccentric interface. Proposals due week 11. Projects due week 14.
 
