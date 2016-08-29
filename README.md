@@ -20,7 +20,8 @@ Ours is a time of dark ecology, where humans are an environmental force. What do
 
 ##Objectives
 Students successfully completing all aspects of this subject will:
-* Demonstrate an introductory understanding of ecocritical theorya and sociology of technology. 
+
+* Demonstrate an introductory understanding of ecocritical theorya and sociology of technology. 
 * Develop a literacy of local environmental issues.
 * Have furthered their ability to engage creatively and critically with the social, relational and spatial aspects of urban infrastructure systems.
 * Have furthered their experience and skills in negotiating interdisciplinary creative production.
@@ -92,10 +93,7 @@ Lectures, readings and research on topics such as:
 Readings and homework are listed the week they are due and are compulsory. I advise printing out readings and doing them with a pen in hand. It helps to do these away from the Internet! Readings may be adjusted throughout term, so check back regularly for upcoming requirements. Also, note that I do not agree with the views expressed in these readings, in fact, some are included as I specifically disagree with the author's perspective. Always approach with a critical eye.
 
 #####Reading response:
-You are to make a short blog post (100-200 words) each week in response to the reading, citing a related example from your research. This could be a contemporary ecological/infrastructural issue, a personal experience, a related creative work, a relevant article etc. Provide a reference or link to the example in your post. In the week when you are to lead class discussions, come to class with at least 3 discussion questions prepared and include these in your blog post.
-
-
-
+You are to make a short blog post (100-200 words) each week in response to the reading, citing a related example from your research. This could be a contemporary ecological/infrastructural issue, a personal experience, [a related creative work](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/PracticeReferences.md), a relevant [article/book chapter/jounal paper](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/Supplementary.md) etc. Provide a reference or link to the example in your post. In the week when you are to lead class discussions, come to class with at least 3 discussion questions prepared and include these in your blog post.
 
 ###Part 1: Investigating Systems
 ####1. 29th August
