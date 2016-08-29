@@ -41,4 +41,6 @@
 
 ###Part 2: Eccentric Interfaces
 
-TBC
+[Critical ecology reading list.](https://placesjournal.org/reading-list/critical-ecologies/) 
+
+TBA

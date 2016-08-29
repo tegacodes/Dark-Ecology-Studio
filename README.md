@@ -93,7 +93,9 @@ Lectures, readings and research on topics such as:
 Readings and homework are listed the week they are due and are compulsory. I advise printing out readings and doing them with a pen in hand. It helps to do these away from the Internet! Readings may be adjusted throughout term, so check back regularly for upcoming requirements. Also, note that I do not agree with the views expressed in these readings, in fact, some are included as I specifically disagree with the author's perspective. Always approach with a critical eye.
 
 #####Reading response:
-You are to make a short blog post (100-200 words) each week in response to the reading, citing a related example from your research. This could be a contemporary ecological/infrastructural issue, a personal experience, [a related creative work](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/PracticeReferences.md), a relevant [article/book chapter/jounal paper](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/Supplementary.md) etc. Provide a reference or link to the example in your post. In the week when you are to lead class discussions, come to class with at least 3 discussion questions prepared and include these in your blog post.
+PDFs of readings are available for download on [the class Moodle.](http://moodle.purchase.edu/moodle2/course/view.php?id=24943)  
+
+You are to make a short blog post (100-200 words) each week in response to the reading, citing a related example from your research. This could be a contemporary ecological/infrastructural issue, a personal experience, [a related creative work](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/PracticeReferences.md), a relevant [article/book chapter/jounal paper](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/Supplementary.md) etc. Provide a reference or link to the example in your post. In the week when you are to lead class discussions, come to class with 3 discussion questions prepared in response, including these in your blog post for that week.
 
 ###Part 1: Investigating Systems
 ####1. 29th August
@@ -102,6 +104,9 @@ You are to make a short blog post (100-200 words) each week in response to the r
 ####5th Sept - Labor day, no class.
 
 * Jedediah Purdy, 2015, [Anthopocene Fever.](https://aeon.co/essays/should-we-be-suspicious-of-the-anthropocene-idea)
+* Larkin, Brian, 2013, The Politics and Poetics of Infrastructure. 
+
+Supplementary
 * Edwards, Paul N. "Infrastructure and modernity: Force, time, and social organization in the history of sociotechnical systems." Modernity and technology 1 (2003). (p185-204) 
 
 ####2. 12th Sept

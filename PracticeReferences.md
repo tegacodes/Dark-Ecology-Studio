@@ -28,7 +28,7 @@ Sound Ethnography/Acoustic Ecology
 * [River Listening](https://soundcloud.com/leah_barclay/sets/river-listening-field), Leah Barclay. [Project description.](http://leahbarclay.com/portfolio_page/river-listening/)
 * [Various field recordings by Leah Barclay](https://soundcloud.com/leah_barclay)
 * [Pond Station, Zach Poff.](http://www.zachpoff.com/projects/pondstation/)
-* * [You've Changed](http://www.timbruniges.com/youve-changed.php), Tim Brunigues and Sarah Mosca.
+* [You've Changed](http://www.timbruniges.com/youve-changed.php), Tim Brunigues and Sarah Mosca.
 
 Related Readings
 
@@ -38,6 +38,6 @@ Related Readings
 ####Part 3: Eccentric Interfaces
 
 
-
+tbd
 
 
