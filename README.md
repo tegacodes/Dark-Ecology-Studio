@@ -118,7 +118,9 @@ Supplementary
 *Homework due:*
 
 * Prepare a 1 page literature review on your system of infrastructure. Refer to the supplementary readings and resources relating to your system and how it is used. Scope the components that you will cover in your chapter/section of the guide. What will you be including and excluding? What do you not know? What do you need to find out? 
-*Readings Due*
+* Review field guide example and come to class ready to discuss and plan.
+
+*Readings Due*  
 
 * Shannon Mattern, 2014, [Infrastructure Tourism](https://placesjournal.org/article/infrastructural-tourism/#ref_5)
 
