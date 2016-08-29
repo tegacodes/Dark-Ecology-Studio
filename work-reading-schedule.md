@@ -20,6 +20,7 @@ You are to make a short blog post (100-200 words) each week in response to the r
 
 Supplementary
 * Edwards, Paul N. "Infrastructure and modernity: Force, time, and social organization in the history of sociotechnical systems." Modernity and technology 1 (2003). (p185-204) 
+* Latour, Bruno. We have never been modern. Harvard University Press, 2012. (introduction)
 
 ####2. 12th Sept
 *Homework due:*
