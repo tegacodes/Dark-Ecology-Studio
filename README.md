@@ -88,8 +88,13 @@ Lectures, readings and research on topics such as:
 | Week 13 |No lecture|<ul><li>Studio</li></ul>|| 
 | Week 14 |No lecture|<ul><li>Project setup.</li></ul>|Final projects due| 
 
+###Attendence
+Miss more than 3 classes and you fail.
  
 ##Readings and homework:
+
+Readings are available on the [class Moodle.](http://moodle.purchase.edu/moodle2/course/view.php?id=24943)
+
 Readings and homework are listed the week they are due and are compulsory. I advise printing out readings and doing them with a pen in hand. It helps to do these away from the Internet! Readings may be adjusted throughout term, so check back regularly for upcoming requirements. Also, note that I do not agree with the views expressed in these readings, in fact, some are included as I specifically disagree with the author's perspective. Always approach with a critical eye.
 
 #####Reading response:
