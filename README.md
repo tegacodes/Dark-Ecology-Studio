@@ -102,6 +102,9 @@ You are to make a short blog post (100-200 words) each week in response to the r
 ####5th Sept - Labor day, no class.
 
 * Jedediah Purdy, 2015, [Anthopocene Fever.](https://aeon.co/essays/should-we-be-suspicious-of-the-anthropocene-idea)
+* Larkin, Brian. "The politics and poetics of infrastructure." Annual Review of Anthropology 42 (2013): 327-343.
+
+Supplementary
 * Edwards, Paul N. "Infrastructure and modernity: Force, time, and social organization in the history of sociotechnical systems." Modernity and technology 1 (2003). (p185-204) 
 
 ####2. 12th Sept
