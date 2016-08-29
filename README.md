@@ -7,10 +7,10 @@
 Monday 12-1pm.   
 Wednesday: 2.30-3.30pm  
 
-##[Schedule/Readings/Homework](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/work-reading-schedule.md)
-
 ##Description
 Ours is a time of dark ecology, where humans have become an environmental force. What does this mean for what we understand the environment to be and our relationship to it? This course investigates diverse local systems such as power grids, water infrastructures and ecoystems around campus. Students will be introduced to methods drawn from both scientific and artistic modes of inquiry including recording, mapping, poetic and scientific sensing, visualization, and photography.  How can we explicate the systems that sustain us? How might public interventions shift how we perceive and represent our deep connections to environmental systems? 
+
+##[Schedule/Readings/Homework](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/work-reading-schedule.md)
 
 ##Links
 
