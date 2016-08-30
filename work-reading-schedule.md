@@ -11,11 +11,10 @@ You are to make a short blog post (100-200 words) each week in response to the r
 ####1. 29th August
 *Homework due on Sep 12th:*
 
-* Reading through course materials
+* Review course materials
 * Prepare a 1 page literature review on your system of infrastructure. Refer to the supplementary readings and resources relating to your system and how it is used. Scope the components that you will cover in your chapter/section of the guide. What will you be including and excluding? What do you not know? What do you need to find out? (due in pdf format in week 2)
 * Review field guide example and come to class ready to discuss and plan.
-* Set up your blog, write your first post in response to the readings this week. Send me a link to your blog.
-* Do readings for next two weeks
+* Set up your blog, write your first post in response to the readings for the next 2 weeks. Send me a link to your blog.
 
 ####5th Sept - Labor day, no class.
 *Readings Due*
