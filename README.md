@@ -11,12 +11,12 @@ Wednesday: 2.30-3.30pm
 Ours is a time of dark ecology, where humans have become an environmental force. What does this mean for what we understand the environment to be and our relationship to it? This course investigates diverse local systems such as power grids, water infrastructures and ecoystems around campus. Students will be introduced to methods drawn from both scientific and artistic modes of inquiry including recording, mapping, poetic and scientific sensing, visualization, and photography.  How can we explicate the systems that sustain us? How might public interventions shift how we perceive and represent our deep connections to environmental systems? 
 
 ##[Schedule/Readings/Homework](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/work-reading-schedule.md)
+##[Course Content and assignments](http://www.des.tegabrain.com)
 
 ##Links
 
-* Class assignments: [http://www.des.tegabrain.com](http://www.des.tegabrain.com)
 * Class repository: [https://github.com/tegacodes/Dark-Ecology-Studio](https://github.com/tegacodes/Dark-Ecology-Studio)
-* Readings on moodle: [http://moodle.purchase.edu/moodle2/course/view.php?id=24943](http://moodle.purchase.edu/moodle2/course/view.php?id=24943)
+* Readings and lectures on moodle: [http://moodle.purchase.edu/moodle2/course/view.php?id=24943](http://moodle.purchase.edu/moodle2/course/view.php?id=24943)
 * [Practice references](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/References.md)
 * [Supplementary Resources](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/Supplementary.md)
 
@@ -29,24 +29,14 @@ Students successfully completing all aspects of this subject will:
 * Have furthered their experience and skills in negotiating interdisciplinary creative production.
 
 
-##Course Content
 
-####1: Infrastructure taxonomies (week 1-3)
-What are the systems of infrastructure that support us on campus and how so they appear to us? How do we expect these systems to work and how are they used? Through observation and research we will document the components and interfaces of these systems.
-
-**Assignment:** Investigating infrastructure Part 1: Field guide. PDF due end of week 4.  
-
-
-####2: Investigating systems (week 4-7)
-What are the larger regional networks designed to transport materials into and away from Purchase? What makes up these systems and where are they located? We will be making several field trips and using ethnographic methods to record our experience of these sites.  
-
-**Assignment:** Investigating infrastructure: Sound works. Works due for exhibition week 7.
-
-####3. Environmental Sense and Sensibilites (week 8-14)
-
-Part 3 returns us to campus to consider our relationship to the other lifeforms and environments onsite. We will explore methods of collecting environmental data and experiment with how it can be performed. We will understanding data-driven practices as being less about sensors, and more about structuring participation and experiences that foster localized environmental literacy and stewardship. We will be exploring analogue methods of sensing, as well as open source hardware and software tools. 
-
-**Assignment:** Eccentric interface. Proposals due week 11. Projects due week 14.
+##Grading
+Assignment 1 25%
+Assignment 2 25%
+Assignment 3 proposal 5%
+Assignment 3 25%
+Reading and documentation blog 10%
+Attendence 10%
 
 ###Field trips
 
@@ -91,7 +81,19 @@ Lectures, readings and research on topics such as:
 | Week 14 |No lecture|<ul><li>Project setup.</li></ul>|Final projects due| 
 
 ###Attendence
-Miss more than 3 classes and you fail.
+Miss more than 3 classes and you fail. Turn up more than half an hour late and receive half an absence. 
  
+###Readings
 
-
+* Jedediah Purdy, 2015, [Anthopocene Fever.](https://aeon.co/essays/should-we-be-suspicious-of-the-anthropocene-idea)
+* Larkin, Brian. "The politics and poetics of infrastructure." Annual Review of Anthropology 42 (2013): 327-343.
+* Shannon Mattern, 2014, [Infrastructure Tourism](https://placesjournal.org/article/infrastructural-tourism/#ref_5)
+* Shannon Mattern, 2016, [Cloud and Field](https://placesjournal.org/article/cloud-and-field/).
+* Ursula, Franklin. Real World of Technology. (1989). Chapter 1
+* Winner, L. (1986). Do Artifacts have Politics? The whale and the reactor: a search for limits in an age of high technology. Chicago, University of Chicago Press, 19-39
+* Timothy Morton, 2014, The Ecological Thought. Excerpts.
+* Muecke, Stephen. What the cassowary does not need to know. Australian Humanities Review, 2006.
+* Stone, Christopher D. Should Trees Have Standing--Toward Legal Rights for Natural Objects. 1972.
+* Bratton, Benjamin H. and Jeremijenko, Natalie. Suspicious images, latent interfaces. Architectural League of New York, 2008.
+* Potter, Emily. "Climate change and the problem of representation." (2009).
+* All Watched Over by Machines of Loving Grace - Episode 2 - [The Use and Abuse of Vegetational Concepts](https://vimeo.com/groups/96331/videos/80799352)
