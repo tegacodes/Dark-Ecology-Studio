@@ -14,6 +14,8 @@ Field Guides/Databases/Tours
 	* [LADWP Power: Electricity in Los Angeles](http://www.clui.org/section/ladwp-power)
 * [Repository: A Typological Guide to America's Ephemeral Nuclear Infrastructure](http://smudgestudio.org/smudge/Repository.html), Smudge Studio.
 * [Urban Rangers Field Guides and Tours](http://laurbanrangers.org/site/menu/field-sites). Specifically relevant is their [Field Guide to the American Road Trip](http://laurbanrangers.org/site/tools/field-guide-american-road-trip)
+* [Toxic Sites,](http://www.toxicsites.us/) Brooke Singer
+
 
 ####Part 2: Investigating Systems
 
@@ -22,6 +24,7 @@ Sound Ethnography/Acoustic Ecology
 * [Single Stream](http://www.single-stream.net/film/) by Paweł Wojtasik, Toby Lee, Ernst Karel.
 * [Electrical Walks](http://www.cabinetmagazine.org/issues/21/kubisch.php), Christina Kubisch.
 * [Materials Recovery Facility](https://archive.org/details/Materials-Recovery-Facility), Ernst Karel.
+* Lucas Ihlein, [Small Soundworks for the Sleepy](http://whatliesbeneath.org/).
 * [Invisible 5.](http://www.invisible5.org/) Amy Balkin and Kim Stringfellow, producer Tim Halbur.
 * [Leviathon](http://www.arretetoncinema.org/leviathan/trailer.html), Sensory Ethnography Laboratory
 * [American Transit](http://american-transit.org/html/begin.html), Kevin T Allen.

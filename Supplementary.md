@@ -5,10 +5,11 @@
 #####Ethnography and Fieldwork
 * Katz, Cindi. "Playing the field: questions of fieldwork in geography." The Professional Geographer 46.1 (1994): 67-72.
 
-#####General Infrastructure
+#####General Infrastructure and technology readings
 
 * Keller Easterling. [Playing Spaces, Interview.](https://www.guernicamag.com/interviews/playing-spaces/)
 * Smith, Monica L. "Urban infrastructure as materialized consensus." World Archaeology 48.1 (2016): 164-178.
+* Ihde, D (1993) “Technology” (p.47-64) in Philosophy of Technology, Paragon House, New York.
 
 #####Energy
 
@@ -41,6 +42,10 @@
 
 ###Part 2: Eccentric Interfaces
 
+#####Ecology
 [Critical ecology reading list.](https://placesjournal.org/reading-list/critical-ecologies/) 
+
+#####Concept of Nature
+Jeremy Butman, 2016, [Against Sustainabiliy.](http://www.nytimes.com/2016/08/08/opinion/against-sustainability.html?_r=0)
 
 TBA
