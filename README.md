@@ -30,11 +30,19 @@ Students successfully completing all aspects of this subject will:
 
 
 ##Grading
-Assignment 1 25%  
+**Part 1 (25%)**
+Assignment 1 5% literature review
+Assignment 1 20% for field guide
+
+**Part 2 (25%)**
 Assignment 2 25%  
+
+**Part 3 (30%)**
 Assignment 3 proposal 5%  
 Assignment 3 25%  
-Reading/work documentation blog posts 10%  
+
+**Other**
+Readings blog posts 10%  
 Attendence 10%
 
 ###Field trips
