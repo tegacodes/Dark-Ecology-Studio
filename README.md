@@ -96,6 +96,7 @@ Miss more than 3 classes and you fail. Turn up more than half an hour late and r
 * Jedediah Purdy, 2015, [Anthopocene Fever.](https://aeon.co/essays/should-we-be-suspicious-of-the-anthropocene-idea)
 * Larkin, Brian. "The politics and poetics of infrastructure." Annual Review of Anthropology 42 (2013): 327-343.
 * Shannon Mattern, 2014, [Infrastructure Tourism](https://placesjournal.org/article/infrastructural-tourism/#ref_5)
+* Elkins, James. How to use your eyes. Routledge, 2007. Chapter 2, How to Look at a Culvert.
 * Shannon Mattern, 2016, [Cloud and Field](https://placesjournal.org/article/cloud-and-field/).
 * Ursula, Franklin. Real World of Technology. (1989). Chapter 1
 * Winner, L. (1986). Do Artifacts have Politics? The whale and the reactor: a search for limits in an age of high technology. Chicago, University of Chicago Press, 19-39
