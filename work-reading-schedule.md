@@ -42,7 +42,7 @@ Supplementary
 ###Part 2: Investigating Systems
 ####3. 19th Sept - Water and Waste systems
 
-* Reading tba.
+* Elkins, James. How to Look at a culvert. File is on the class moodle.
 
 ####4. 26th Sept 
 * Ursula, Franklin. Real World of Technology. (1989). Chapter 1
