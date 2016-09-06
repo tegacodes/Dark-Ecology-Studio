@@ -73,8 +73,8 @@ Lectures, readings and research on topics such as:
 | --- | --- | --- | --- |
 | Week 1 |Intro to dark ecology. Why infrastructure. |<ul><li>Project 1 groups and planning.</li><li>Infrastructure audit.</li><li>Campus research.</li></ul>   ||
 | Sept 5th| Labor Day, No class.||| 
-| Week 2 |What is ethnographic research? |<ul><li>Talk from campus environment officer. </li><li>Campus research updates.</li><li>Revision of field recording techniques with Victoria Estock.</li></ul> || 
-| Week 3 |Field trip 1: Waste||Systems literature and research review due| 
+| Week 2 |What is ethnographic research? |<ul><li>Talk from campus environment officer. </li><li>Campus research updates.</li><li>Revision of field recording techniques with Victoria Estock.</li></ul> |Systems literature and research review due| 
+| Week 3 |Field trip 1: Waste||| 
 | Week 4 |Externalities. Risk. Resilience.|<ul><li>Field guide group review.</li><li> Finalize and compile guide.</li></ul>|| 
 | Week 5 |Field trip 2: Energy||Field guide draft PDF due Friday of this week.| 
 | Week 6 |Acoustic ecology and soundscape. |<ul><li>Studio|| 
