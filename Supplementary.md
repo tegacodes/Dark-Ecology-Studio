@@ -5,6 +5,11 @@
 #####Ethnography and Fieldwork
 * Katz, Cindi. "Playing the field: questions of fieldwork in geography." The Professional Geographer 46.1 (1994): 67-72.
 
+Acoustic Ecology and Listening 
+* Michael, David. ["Toward a dark nature recording."](http://ciufo.org/classes/ae_sp13/reading/dark_nature.pdf) Organised Sound 16.03 (2011): 206-210.
+* Dunn, David. ["Purposeful listening in complex states of time."](http://static1.1.sqspcdn.com/static/f/288545/5477319/1264209903233/Plicsot.pdf?token=9ocrXLFdqAJQggbA4f1GE8mH0%2B8%3D) Site of Sound: Of Architecture & the Ear (1999): 77-87. 
+* Wrightson, Kendall. ["An introduction to acoustic ecology."](http://www.econtact.ca/5_3/wrightson_acousticecology.html) Soundscape: The journal of acoustic ecology 1.1 (2000): 10-13.
+
 #####General Infrastructure and technology readings
 
 * Keller Easterling. [Playing Spaces, Interview.](https://www.guernicamag.com/interviews/playing-spaces/)
