@@ -31,6 +31,8 @@ Sound Ethnography/Acoustic Ecology
 * [River Listening](https://soundcloud.com/leah_barclay/sets/river-listening-field), Leah Barclay. [Project description.](http://leahbarclay.com/portfolio_page/river-listening/)
 * [Various field recordings by Leah Barclay](https://soundcloud.com/leah_barclay)
 * [Pond Station, Zach Poff.](http://www.zachpoff.com/projects/pondstation/)
+* [The Night I met Maria C](https://soundcloud.com/delaurenti/the-night-i-met-maria-c)
+* [Sounds from Dangerous Places](http://sounds-from-dangerous-places.org/)
 * [You've Changed](http://www.timbruniges.com/youve-changed.php), Tim Brunigues and Sarah Mosca.
 
 Related Readings
