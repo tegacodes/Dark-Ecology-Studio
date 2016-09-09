@@ -1,4 +1,6 @@
-#Readings and homework:
+#Schedule
+
+###Readings and homework:
 
 Readings are available on the [class Moodle.](http://moodle.purchase.edu/moodle2/course/view.php?id=24943)
 
@@ -6,6 +8,8 @@ Readings and homework are listed the week they are due and are compulsory. I adv
 
 #####Reading response:
 You are to make a short blog post (100-200 words) each week in response to the reading, citing a related example from your research. This could be a contemporary ecological/infrastructural issue, a personal experience, [a related creative work](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/PracticeReferences.md), a relevant [article/book chapter/jounal paper](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/Supplementary.md) etc. Provide a reference or link to the example in your post. In the week when you are to lead class discussions, come to class with at least 3 discussion questions prepared and include these in your blog post.
+
+#Course Calendar and deliverables.
 
 ###Part 1: Infrastructure Taxonomies
 ##1. 29th August
