@@ -47,7 +47,7 @@ Supplementary
 
 ###Part 2: Investigating Systems
 ##3. 19th Sept - Water and Wastesystems
-* Meet at 1.40 p.m. at Daniel P. Thomas Material Recovery Facility
+* Meet at 1.30 p.m. at Daniel P. Thomas Material Recovery Facility
 1 Stew Leonard Drive, Yonkers, NY 10710. [Directions from Purchase here.](https://www.google.com/maps/dir/Purchase+College+at+State+University+of+New+York,+Anderson+Hill+Road,+Purchase,+NY/westchester+Material+Recovery+Facility/@40.9909294,-73.848616,12z/am=t/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x89c297b52f499dbb:0x74274bcfdd6edf4a!2m2!1d-73.6977661!2d41.0466485!1m5!1m1!1s0x89c2ed27334c1e61:0x324b63fbc5b4880d!2m2!1d-73.8595379!2d40.9729586)
 * Second stop on this field trip is Westchester Wastewater Treatment Plant. We will meet there are 3.30pm. It is located at [1 Fernbrook St, Yonkers, NY 10705.](https://www.google.com/maps/place/Westchester+County+Wastewater+Treatment+Plant/@40.9219868,-73.9073594,15z/data=!4m5!3m4!1s0x0:0x4df6126a2165ad4f!8m2!3d40.9219868!4d-73.9073594)
 
