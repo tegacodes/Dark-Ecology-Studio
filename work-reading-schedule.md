@@ -14,7 +14,7 @@ You are to make a short blog post (100-200 words) each week in response to the r
 * Review course materials
 * Each group is to prepare a 1 page literature review on your system of infrastructure. Refer to the supplementary readings and resources relating to your system and how it is used. Scope the components that you will cover in your chapter/section of the guide. What will you be including and excluding? What do you not know? What do you need to find out? (due in class pdf format in week 2, Sept 14th). For guidance, please see 9this description of how to write a literature review.](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/literature-review-guide.md)
 * Review field guide examples and come to class ready to discuss and plan.
-* Set up your blog, write your first post in response to the readings for the next 2 weeks. Send me a link to your blog.
+* Set up your blog, write your first posts in response to the readings due next week and in week 3. Send me a link to your blog.
 
 ##5th Sept - Labor day, no class.
 *Readings Due*
@@ -39,10 +39,15 @@ Supplementary
 
 * Research and preparations of campus field guide. Draft content is due on the 26th.
 * To start thinking about sound, listening and the recording that you will do on next week's field trip, choose one sound work from the list of [examples here](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/PracticeReferences.md) and write a paragraph on the piece and how it relates to last week's reading, Infrastructure Tourism.
+* Do the reading for next week!
 
 ###Part 2: Investigating Systems
-##3. 19th Sept - Water and Waste systems
+##3. 19th Sept - Water and Wastesystems
+* Meet at 1.40 p.m. at Daniel P. Thomas Material Recovery Facility
+1 Stew Leonard Drive, Yonkers, NY 10710. [Directions from Purchase here.](https://www.google.com/maps/dir/Purchase+College+at+State+University+of+New+York,+Anderson+Hill+Road,+Purchase,+NY/westchester+Material+Recovery+Facility/@40.9909294,-73.848616,12z/am=t/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x89c297b52f499dbb:0x74274bcfdd6edf4a!2m2!1d-73.6977661!2d41.0466485!1m5!1m1!1s0x89c2ed27334c1e61:0x324b63fbc5b4880d!2m2!1d-73.8595379!2d40.9729586)
+* Second stop on this field trip is Westchester Wastewater Treatment Plant. We will meet there are 3.30pm. It is located at [1 Fernbrook St, Yonkers, NY 10705.](https://www.google.com/maps/place/Westchester+County+Wastewater+Treatment+Plant/@40.9219868,-73.9073594,15z/data=!4m5!3m4!1s0x0:0x4df6126a2165ad4f!8m2!3d40.9219868!4d-73.9073594)
 
+*Reading Due:*
 * Elkins, James. How to Look at a culvert. File is on the class moodle.
 
 ##4. 26th Sept 
