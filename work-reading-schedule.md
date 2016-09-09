@@ -38,7 +38,7 @@ Supplementary
 *Homework due for next week:* 
 
 * Research and preparations of campus field guide. Draft content is due on the 26th.
-* To prepare for the field trip, choose one sound work from the list of examples here and write a paragraph on the work in relations to the reading, Infrastructure Tourism, for this week. 
+* To start thinking about sound, listening and the recording that you will do on next week's field trip, choose one sound work from the list of [examples here](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/PracticeReferences.md) and write a paragraph on the piece and how it relates to last week's reading, Infrastructure Tourism.
 
 ###Part 2: Investigating Systems
 ##3. 19th Sept - Water and Waste systems
