@@ -41,28 +41,28 @@ Supplementary
 * To prepare for the field trip, choose one sound work from the list of examples here and write a paragraph on the work in relations to the reading, Infrastructure Tourism, for this week. 
 
 ###Part 2: Investigating Systems
-####3. 19th Sept - Water and Waste systems
+##3. 19th Sept - Water and Waste systems
 
 * Elkins, James. How to Look at a culvert. File is on the class moodle.
 
-####4. 26th Sept 
+##4. 26th Sept 
 * Ursula, Franklin. Real World of Technology. (1989). Chapter 1
 
-####5. 3rd Oct - Energy Systems
+##5. 3rd Oct - Energy Systems
 
 * Winner, L. (1986). Do Artifacts have Politics? The whale and the reactor: a search for limits in an age of high technology. Chicago, University of Chicago Press, 19-39
 
-####6. 10th Oct - Project work
+##6. 10th Oct - Project work
 Homework presentations and discussion.
 Studio work project 2.
 
-####7. 17th Oct - Midterm due
+##7. 17th Oct - Midterm due
 No reading.  
 Project 2 due. Exhibition.
 
 ###Part 3: Eccentric Interfaces
 
-####8. 24th Oct
+##8. 24th Oct
 
 * Timothy Morton, 2014, The Ecological Thought. Excerpts.
 
@@ -70,31 +70,31 @@ Supplementary:
 
 * Tim Morton lecture. [Ecological Awareness 101.](https://archive.org/details/140204001) 
 
-####9. 31st Oct
+##9. 31st Oct
 * Muecke, Stephen. What the cassowary does not need to know. Australian Humanities Review, 2006.
 * Stone, Christopher D. Should Trees Have Standing--Toward Legal Rights for Natural Objects. 1972.
 
-####10. 7th Nov
+##10. 7th Nov
 No readings.  
 
 *Reporting back on:* 
 
 * Topic literature review presentations.
 
-####11. 14th Nov
+##11. 14th Nov
 * Bratton, Benjamin H. and Jeremijenko, Natalie. Suspicious images, latent interfaces. Architectural League of New York, 2008.
 
 
-####12. 21st Nov
+##12. 21st Nov
 * Potter, Emily. "Climate change and the problem of representation." (2009).
 
-####13. 28th Nov
+##13. 28th Nov
 * All Watched Over by Machines of Loving Grace - Episode 2 - [The Use and Abuse of Vegetational Concepts](https://vimeo.com/groups/96331/videos/80799352)
 
-####14. 5th Dec
+##14. 5th Dec
 Make up class if needed.
 
-#### 12th Dec
+## 12th Dec
 Final projects due.
 
 
