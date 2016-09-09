@@ -10,9 +10,9 @@ You should also mention any specific important ideas to your understanding of th
 text.
 
 Please note that referencing a book with one author slightly varies from a book with multiple authores, e-books, journal papers, newspapers and 
-conference papers. For this reason you should make yourself familar with a good MLA referencing guide.
+conference papers. For this reason you should make yourself familar with a good MLA referencing guide such as [this one.](http://www.citethisforme.com/guides/mla)
 
-###How to add creative resources to this review?
+###How to add creative resources to a review?
 
 Artists and designers are not just informed by academic literature reviews in their work. Usually artefacts or media are significant resources 
 that inform research being conducted for "creative works". For this reason you can also include references to creative resources such as artefacts
