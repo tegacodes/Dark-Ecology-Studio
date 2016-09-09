@@ -8,7 +8,7 @@ Readings and homework are listed the week they are due and are compulsory. I adv
 You are to make a short blog post (100-200 words) each week in response to the reading, citing a related example from your research. This could be a contemporary ecological/infrastructural issue, a personal experience, [a related creative work](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/PracticeReferences.md), a relevant [article/book chapter/jounal paper](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/Supplementary.md) etc. Provide a reference or link to the example in your post. In the week when you are to lead class discussions, come to class with at least 3 discussion questions prepared and include these in your blog post.
 
 ###Part 1: Infrastructure Taxonomies
-####1. 29th August
+##1. 29th August
 *Homework due on Sep 12th:*
 
 * Review course materials
@@ -16,7 +16,7 @@ You are to make a short blog post (100-200 words) each week in response to the r
 * Review field guide examples and come to class ready to discuss and plan.
 * Set up your blog, write your first post in response to the readings for the next 2 weeks. Send me a link to your blog.
 
-####5th Sept - Labor day, no class.
+##5th Sept - Labor day, no class.
 *Readings Due*
 
 * Jedediah Purdy, 2015, [Anthopocene Fever.](https://aeon.co/essays/should-we-be-suspicious-of-the-anthropocene-idea)
@@ -26,7 +26,7 @@ Supplementary
 * Edwards, Paul N. "Infrastructure and modernity: Force, time, and social organization in the history of sociotechnical systems." Modernity and technology 1 (2003). (p185-204) 
 * Latour, Bruno. We have never been modern. Harvard University Press, 2012. (introduction)
 
-####2. 12th Sept
+##2. 12th Sept
 
 *Readings Due*  
 
@@ -35,9 +35,10 @@ Supplementary
 Supplementary
 * Shannon Mattern, 2016, [Cloud and Field](https://placesjournal.org/article/cloud-and-field/).
 
-*Reporting back on:* 
+*Homework due for next week:* 
 
-* Research and preparations of campus field guide. 
+* Research and preparations of campus field guide. Draft content is due on the 26th.
+* To prepare for the field trip, choose one sound work from the list of examples here and write a paragraph on the work in relations to the reading, Infrastructure Tourism, for this week. 
 
 ###Part 2: Investigating Systems
 ####3. 19th Sept - Water and Waste systems
