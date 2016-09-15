@@ -58,26 +58,27 @@ Supplementary
 * Ursula, Franklin. Real World of Technology. (1989). Chapter 1
 
 ##5. 3rd Oct - Energy Systems
-
+* Soft copy of guides due friday.
 * Winner, L. (1986). Do Artifacts have Politics? The whale and the reactor: a search for limits in an age of high technology. Chicago, University of Chicago Press, 19-39
 
 ##6. 10th Oct - Project work
 Homework presentations and discussion.
+Printing guides.
 Studio work project 2.
 
 ##7. 17th Oct - Midterm due
-No reading.  
-Project 2 due. Exhibition.
-
-###Part 3: Eccentric Interfaces
+* Sound work crits and exhibition planning.
+* No reading.
 
 ##8. 24th Oct
-
+* Project 2 due. Exhibition.
 * Timothy Morton, 2014, The Ecological Thought. Excerpts.
 
 Supplementary:
 
 * Tim Morton lecture. [Ecological Awareness 101.](https://archive.org/details/140204001) 
+
+###Part 3: Eccentric Interfaces
 
 ##9. 31st Oct
 * Muecke, Stephen. What the cassowary does not need to know. Australian Humanities Review, 2006.
