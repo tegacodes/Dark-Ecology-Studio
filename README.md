@@ -67,7 +67,7 @@ Lectures, readings and research on topics such as:
 
 
 ###Schedule
-
+For a detailed schedule, with homework and reading requirements [go here.](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/work-reading-schedule.md)
 
 |Week |Lecture/Topic/Content | Tutorial/Workshop |Assessment Due Date |
 | --- | --- | --- | --- |
