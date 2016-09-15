@@ -57,31 +57,34 @@ Supplementary
 ##4. 26th Sept 
 * Ursula, Franklin. Real World of Technology. (1989). Chapter 1
 
-##5. 3rd Oct - Energy Systems
-* Soft copy of guides due friday.
+##5. 3rd Oct - Field trip - Energy Systems
+* Indian point field trip 
+* PDF of guides for printing due friday.
 * Winner, L. (1986). Do Artifacts have Politics? The whale and the reactor: a search for limits in an age of high technology. Chicago, University of Chicago Press, 19-39
 
 ##6. 10th Oct - Project work 
 Field trip reflections and discussion.
-Sound project proposal.
+Sound work concept and proposal presentations in class.
 Printing guides.
-Studio work project 2.
+Studio time.
 
 ##7. 17th Oct - Sound and curation studio
-* Sound work crits and exhibition planning.
-* No reading.
+* Sound work crits and exhibition planning. Exhibition requirements finalized and delegated.
+* Studio time
+
+*Reading due:*
+* Timothy Morton, 2014, The Ecological Thought. Excerpts.
+Supplementary:
+* Tim Morton lecture. [Ecological Awareness 101.](https://archive.org/details/140204001) 
 
 ##8. 24th Oct - Exhibition!
 * Project 2 due. Install and exhibition open.
-* Timothy Morton, 2014, The Ecological Thought. Excerpts.
-
-Supplementary:
-
-* Tim Morton lecture. [Ecological Awareness 101.](https://archive.org/details/140204001) 
+* No reading due.
 
 ###Part 3: Eccentric Interfaces
 
 ##9. 31st Oct
+*Reading due:*
 * Muecke, Stephen. What the cassowary does not need to know. Australian Humanities Review, 2006.
 * Stone, Christopher D. Should Trees Have Standing--Toward Legal Rights for Natural Objects. 1972.
 
