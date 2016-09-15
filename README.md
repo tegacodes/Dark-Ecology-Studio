@@ -79,8 +79,8 @@ Lectures, readings and research on topics such as:
 | Week 5 |Field trip 2: Energy||Field guide draft PDF due Friday of this week.| 
 | Week 6 |Acoustic ecology and soundscape. |<ul><li>Studio</li></ul>|| 
 | Week 7 |Sound and curation|<ul><li>Studio</li></ul>|Sound work due Friday this week| 
-| Week 7 |No lecture|<ul><li>Installation.</li></ul>|Exhibition in Two Walls today| 
-| Week 9 |Thinking coexistence|<ul><li>Perspectives on environment exercise. </li><li>Analogue sensing workshop.</li></ul>| and printed Field Guide presented in exhibition.| 
+| Week 7 |No lecture|<ul><li>Installation.</li></ul>|Exhibition of sound work and guides in Two Walls| 
+| Week 9 |Thinking coexistence|<ul><li>Perspectives on environment exercise. </li><li>Analogue sensing workshop.</li></ul>|| 
 | Week 10 |Interspecies|<ul><li>Sensing workshop 2</li></ul>|| 
 | Week 11 |Sensing and politics of information|<ul><li>Data workshop 1</li></ul>|Species literature review due.| 
 | Week 12 |Rethinking interface|<ul><li>Data workshop 2</li></ul>|Project proposal due in class.| 
