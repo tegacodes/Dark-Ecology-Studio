@@ -61,17 +61,18 @@ Supplementary
 * Soft copy of guides due friday.
 * Winner, L. (1986). Do Artifacts have Politics? The whale and the reactor: a search for limits in an age of high technology. Chicago, University of Chicago Press, 19-39
 
-##6. 10th Oct - Project work
-Homework presentations and discussion.
+##6. 10th Oct - Project work 
+Field trip reflections and discussion.
+Sound project proposal.
 Printing guides.
 Studio work project 2.
 
-##7. 17th Oct - Midterm due
+##7. 17th Oct - Sound and curation studio
 * Sound work crits and exhibition planning.
 * No reading.
 
-##8. 24th Oct
-* Project 2 due. Exhibition.
+##8. 24th Oct - Exhibition!
+* Project 2 due. Install and exhibition open.
 * Timothy Morton, 2014, The Ecological Thought. Excerpts.
 
 Supplementary:
