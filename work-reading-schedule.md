@@ -1,5 +1,7 @@
 #Schedule
 
+[Week 1](#week1)
+
 ###Readings and homework:
 
 Readings are available on the [class Moodle.](http://moodle.purchase.edu/moodle2/course/view.php?id=24943)
@@ -12,7 +14,7 @@ You are to make a short blog post (100-200 words) each week in response to the r
 #Course Calendar and deliverables.
 
 ###Part 1: Infrastructure Taxonomies
-##1. 29th August
+##[Week1](#week1) 29th August
 *Homework due on Sep 12th:*
 
 * Review course materials
