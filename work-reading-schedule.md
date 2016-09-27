@@ -1,10 +1,10 @@
 #Schedule
 
-[Week 1](#1--29th-august)  
-[Week 2](#2--12th-sept)  
-[Week 3](#3--19th-sept)  
-[Week 4](#4--26th-sept)  
-[Week 5](#5--3rd-oct )  
+[Week 1 - 29th August](#1--29th-august)  
+[Week 2 - 12th Sept](#2--12th-sept)  
+[Week 3 - 19th Sept](#3--19th-sept)  
+[Week 4 - 26th Sept](#4--26th-sept)  
+[Week 5 - 3rd Oct](#5--3rd-oct )  
 
 ###Readings and homework:
 
