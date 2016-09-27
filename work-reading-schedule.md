@@ -1,6 +1,10 @@
 #Schedule
 
-[Week 1](#Week1)
+[Week 1](#1--29th-august)
+[Week 2](#2--12th-sept)
+[Week 3](#3--19th-sept)
+[Week 4](#4--26th-sept)
+[Week 5](#5--3rd-oct )
 
 ###Readings and homework:
 
@@ -14,7 +18,7 @@ You are to make a short blog post (100-200 words) each week in response to the r
 #Course Calendar and deliverables.
 
 ###Part 1: Infrastructure Taxonomies
-##Week1 : 29th August
+##1 : 29th August
 *Homework due on Sep 12th:*
 
 * Review course materials
@@ -32,7 +36,7 @@ Supplementary
 * Edwards, Paul N. "Infrastructure and modernity: Force, time, and social organization in the history of sociotechnical systems." Modernity and technology 1 (2003). (p185-204) 
 * Latour, Bruno. We have never been modern. Harvard University Press, 2012. (introduction)
 
-##2. 12th Sept
+##2 : 12th Sept
 
 *Readings Due*  
 
@@ -48,7 +52,8 @@ Supplementary
 * Do the reading for next week!
 
 ###Part 2: Investigating Systems
-##3. 19th Sept - Water and Wastesystems
+##3 : 19th Sept
+Water and Wastesystems
 * Meet at 1.30 p.m. at Daniel P. Thomas Material Recovery Facility
 1 Stew Leonard Drive, Yonkers, NY 10710. [Directions from Purchase here.](https://www.google.com/maps/dir/Purchase+College+at+State+University+of+New+York,+Anderson+Hill+Road,+Purchase,+NY/westchester+Material+Recovery+Facility/@40.9909294,-73.848616,12z/am=t/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x89c297b52f499dbb:0x74274bcfdd6edf4a!2m2!1d-73.6977661!2d41.0466485!1m5!1m1!1s0x89c2ed27334c1e61:0x324b63fbc5b4880d!2m2!1d-73.8595379!2d40.9729586)
 * Second stop on this field trip is Westchester Wastewater Treatment Plant. We will meet there are 3.30pm. It is located at [1 Fernbrook St, Yonkers, NY 10705.](https://www.google.com/maps/place/Westchester+County+Wastewater+Treatment+Plant/@40.9219868,-73.9073594,15z/data=!4m5!3m4!1s0x0:0x4df6126a2165ad4f!8m2!3d40.9219868!4d-73.9073594)
@@ -56,10 +61,11 @@ Supplementary
 *Reading Due:*
 * Elkins, James. How to Look at a culvert. File is on the class moodle.
 
-##4. 26th Sept 
+##4 : 26th Sept 
 * Ursula, Franklin. Real World of Technology. (1989). Chapter 1
 
-##5. 3rd Oct - Field trip - Energy Systems
+##5 : 3rd Oct 
+Field trip - Energy Systems
 * Indian point field trip 
 * PDF of guides for printing due friday.
 * Winner, L. (1986). Do Artifacts have Politics? The whale and the reactor: a search for limits in an age of high technology. Chicago, University of Chicago Press, 19-39
