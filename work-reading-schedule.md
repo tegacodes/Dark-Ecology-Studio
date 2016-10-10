@@ -5,6 +5,7 @@
 [Week 3 - 19th Sept](#3--19th-sept)  
 [Week 4 - 26th Sept](#4--26th-sept)  
 [Week 5 - 3rd Oct](#5--3rd-oct )  
+[Week 6 - 10th Oct](#6--10th-oct )  
 
 ###Readings and homework:
 
@@ -62,6 +63,7 @@ Water and Wastesystems
 * Elkins, James. How to Look at a culvert. File is on the class moodle.
 
 ##4 : 26th Sept 
+* Lecture: Infrastructure concepts
 * Ursula, Franklin. Real World of Technology. (1989). Chapter 1
 
 ##5 : 3rd Oct 
@@ -71,10 +73,17 @@ Field trip - Energy Systems
 * Winner, L. (1986). Do Artifacts have Politics? The whale and the reactor: a search for limits in an age of high technology. Chicago, University of Chicago Press, 19-39
 
 ##6. 10th Oct - Project work 
-Field trip reflections and discussion.
-Sound work concept and proposal presentations in class.
-Printing guides.
-Studio time.
+
+* Lecture: Sound ethnographies
+* Field trip reflections and discussion.
+* Reading discussion.
+* Printing guides.
+* Sound work concept and proposal preparations.
+* Studio time.
+*Homework due for next week*
+* Reading
+* Write and publish a 300 word response to the three field trip visits on your blog.
+* Prepare the concept for your sound piece and work on it. Come prepared to discuss your progress in a crit next week. Prepare sketches and a 1 paragraph description of your project. You should include a plan for curating and exhibiting your work. If you need to consult with Victoria Estok, she is available for consultation with you.
 
 ##7. 17th Oct - Sound and curation studio
 * Sound work crits and exhibition planning. Exhibition requirements finalized and delegated.
