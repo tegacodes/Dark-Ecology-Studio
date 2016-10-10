@@ -75,7 +75,6 @@ Field trip - Energy Systems
 ##6 : 10th Oct 
 Sound ethnographies
 
-* Lecture: 
 * Field trip reflections and discussion.
 * Reading discussion.
 * Printing guides.
