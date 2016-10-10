@@ -72,7 +72,7 @@ Field trip - Energy Systems
 * PDF of guides for printing due friday.
 * Winner, L. (1986). Do Artifacts have Politics? The whale and the reactor: a search for limits in an age of high technology. Chicago, University of Chicago Press, 19-39
 
-##6. 10th Oct 
+##6 : 10th Oct 
 Sound ethnographies
 
 * Lecture: 
