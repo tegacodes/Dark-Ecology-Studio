@@ -87,13 +87,9 @@ Sound ethnographies
 * Prepare the concept for your sound piece and work on it. Come prepared to discuss your progress in a crit next week. Prepare sketches and a 1 paragraph description of your project. You should include a plan for curating and exhibiting your work. If you need to consult with Victoria Estok, she is available for consultation with you.
 
 ##7. 17th Oct - Sound and curation studio
+* Reading: Review one of the essays and the artworks published here: [http://continentcontinent.cc/index.php/continent](http://continentcontinent.cc/index.php/continent)
 * Sound work crits and exhibition planning. Exhibition requirements finalized and delegated.
 * Studio time
-
-*Reading due:*
-* Timothy Morton, 2014, The Ecological Thought. Excerpts.
-Supplementary:
-* Tim Morton lecture. [Ecological Awareness 101.](https://archive.org/details/140204001) 
 
 ##8. 24th Oct - Exhibition!
 * Project 2 due. Install and exhibition open.
@@ -103,11 +99,14 @@ Supplementary:
 
 ##9. 31st Oct
 *Reading due:*
-* Muecke, Stephen. What the cassowary does not need to know. Australian Humanities Review, 2006.
-* Stone, Christopher D. Should Trees Have Standing--Toward Legal Rights for Natural Objects. 1972.
+* Timothy Morton, 2014, The Ecological Thought. Excerpts.
+Supplementary:
+* Tim Morton lecture. [Ecological Awareness 101.](https://archive.org/details/140204001) 
+
 
 ##10. 7th Nov
-No readings.  
+* Muecke, Stephen. What the cassowary does not need to know. Australian Humanities Review, 2006.
+* Stone, Christopher D. Should Trees Have Standing--Toward Legal Rights for Natural Objects. 1972.
 
 *Reporting back on:* 
 
