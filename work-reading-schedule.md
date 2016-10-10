@@ -72,15 +72,17 @@ Field trip - Energy Systems
 * PDF of guides for printing due friday.
 * Winner, L. (1986). Do Artifacts have Politics? The whale and the reactor: a search for limits in an age of high technology. Chicago, University of Chicago Press, 19-39
 
-##6. 10th Oct - Project work 
+##6. 10th Oct 
+Sound ethnographies
 
-* Lecture: Sound ethnographies
+* Lecture: 
 * Field trip reflections and discussion.
 * Reading discussion.
 * Printing guides.
-* Sound work concept and proposal preparations.
-* Studio time.
+* Sound work concept and proposal preparation studio.
+
 *Homework due for next week*
+
 * Reading
 * Write and publish a 300 word response to the three field trip visits on your blog.
 * Prepare the concept for your sound piece and work on it. Come prepared to discuss your progress in a crit next week. Prepare sketches and a 1 paragraph description of your project. You should include a plan for curating and exhibiting your work. If you need to consult with Victoria Estok, she is available for consultation with you.
