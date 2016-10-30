@@ -99,14 +99,14 @@ Sound ethnographies
 
 ###Part 3: Eccentric Interfaces
 
-##9. 31st Oct
+##9 : 31st Oct
 *Reading due:*
 * Timothy Morton, 2014, The Ecological Thought. (on the Moodle).
 Supplementary:  
 * Tim Morton lecture. [Ecological Awareness 101.](https://archive.org/details/140204001) 
 * Introduction to environmental sensing and interface.
 
-##10. 7th Nov
+##10 : 7th Nov
 * Muecke, Stephen. What the cassowary does not need to know. Australian Humanities Review, 2006.
 * Stone, Christopher D. Should Trees Have Standing--Toward Legal Rights for Natural Objects. 1972.
 Tutorial:
@@ -116,7 +116,7 @@ Tutorial:
 *Reporting back on:* 
 * Topic/research review for final projects.
 
-##11. 14th Nov
+##11 : 14th Nov
 * Bratton, Benjamin H. and Jeremijenko, Natalie. Suspicious images, latent interfaces. Architectural League of New York, 2008.
 Tutorial:
 * Environmental Sensing workshop 2. 
