@@ -101,8 +101,8 @@ Sound ethnographies
 
 ##9 : 31st Oct
 *Reading due:*
-* Timothy Morton, 2014, The Ecological Thought. (on the Moodle).
-Supplementary:  
+* Timothy Morton, 2014, The Ecological Thought. (on the Moodle).  
+Supplementary materials:  
 * Tim Morton lecture. [Ecological Awareness 101.](https://archive.org/details/140204001) 
 * Introduction to environmental sensing and interface.
 
