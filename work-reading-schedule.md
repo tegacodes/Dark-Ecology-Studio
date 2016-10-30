@@ -7,6 +7,8 @@
 [Week 5 - 3rd Oct](#5--3rd-oct )  
 [Week 6 - 10th Oct](#6--10th-oct )  
 
+[Week 9 - 30th Oct](#9--30th-oct )  
+
 ###Readings and homework:
 
 Readings are available on the [class Moodle.](http://moodle.purchase.edu/moodle2/course/view.php?id=24943)
@@ -99,31 +101,35 @@ Sound ethnographies
 
 ##9. 31st Oct
 *Reading due:*
-* Timothy Morton, 2014, The Ecological Thought. Excerpts.
-Supplementary:
+* Timothy Morton, 2014, The Ecological Thought. (on the Moodle).
+Supplementary:  
 * Tim Morton lecture. [Ecological Awareness 101.](https://archive.org/details/140204001) 
-
+* Introduction to environmental sensing and interface.
 
 ##10. 7th Nov
 * Muecke, Stephen. What the cassowary does not need to know. Australian Humanities Review, 2006.
 * Stone, Christopher D. Should Trees Have Standing--Toward Legal Rights for Natural Objects. 1972.
+Tutorial:
+* Environmental Sensing workshop 1. 
+* Introducing the Particle + p5js
 
 *Reporting back on:* 
-
-* Topic literature review presentations.
+* Topic/research review for final projects.
 
 ##11. 14th Nov
 * Bratton, Benjamin H. and Jeremijenko, Natalie. Suspicious images, latent interfaces. Architectural League of New York, 2008.
-
+Tutorial:
+* Environmental Sensing workshop 2. 
+* Introducing the Particle + p5js
 
 ##12. 21st Nov
-* Potter, Emily. "Climate change and the problem of representation." (2009).
+No Class - Thanksgiving.
 
 ##13. 28th Nov
-* All Watched Over by Machines of Loving Grace - Episode 2 - [The Use and Abuse of Vegetational Concepts](https://vimeo.com/groups/96331/videos/80799352)
+* Potter, Emily. "Climate change and the problem of representation." (2009).
 
 ##14. 5th Dec
-Make up class if needed.
+* All Watched Over by Machines of Loving Grace - Episode 2 - [The Use and Abuse of Vegetational Concepts](https://vimeo.com/groups/96331/videos/80799352)
 
 ## 12th Dec
 Final projects due.
