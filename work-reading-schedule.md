@@ -7,7 +7,7 @@
 [Week 5 - 3rd Oct](#5--3rd-oct )  
 [Week 6 - 10th Oct](#6--10th-oct )  
 
-[Week 9 - 30th Oct](#9--30th-oct )  
+[Week 9 - 31st Oct](#9--31st-oct )  
 
 ###Readings and homework:
 
