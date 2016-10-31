@@ -8,7 +8,7 @@ Due: Tuesday morning.
 
 Inspiration:
 
-Check out the links in the resources page of the repository under environmental observation. 
+Check out the links in the resources page of the repository under environmental observation and the sensing lecture. 
 Consider the following prompts:
 
 -How would you use an ephemeral substance like chalk to mark a change in the environment over time?
