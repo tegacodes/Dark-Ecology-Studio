@@ -75,7 +75,7 @@ Field trip - Energy Systems
 * Winner, L. (1986). Do Artifacts have Politics? The whale and the reactor: a search for limits in an age of high technology. Chicago, University of Chicago Press, 19-39
 
 ##6 : 10th Oct 
-Sound ethnographies
+[Sound ethnographies
 
 * Field trip reflections and discussion.
 * Reading discussion.
@@ -105,7 +105,11 @@ Sound ethnographies
   
 Supplementary materials:  
 * Tim Morton lecture. [Ecological Awareness 101.](https://archive.org/details/140204001) 
-* Introduction to environmental sensing and interface.
+* Introduction to environmentalal ethics and concepts.
+
+Homework:
+* Reading for next week.
+* [Analogue sensing exercise.](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/sensing-1)
 
 ##10 : 7th Nov
 * Muecke, Stephen. What the cassowary does not need to know. Australian Humanities Review, 2006.
