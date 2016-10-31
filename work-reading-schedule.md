@@ -99,19 +99,21 @@ Field trip - Energy Systems
 
 ###Part 3: Eccentric Interfaces
 
+Sense and sensibility.
 ##9 : 31st Oct
 *Reading due:*
 * Timothy Morton, 2014, The Ecological Thought. (on the Moodle).  
   
 Supplementary materials:  
 * Tim Morton lecture. [Ecological Awareness 101.](https://archive.org/details/140204001) 
-* Introduction to environmentalal ethics and concepts.
 
 Homework:
 * Reading for next week.
 * [Analogue sensing exercise.](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/sensing-1)
 
 ##10 : 7th Nov
+* Introduction to environmentalal ethics and concepts.
+Readings for this week.
 * Muecke, Stephen. What the cassowary does not need to know. Australian Humanities Review, 2006.
 * Stone, Christopher D. Should Trees Have Standing--Toward Legal Rights for Natural Objects. 1972.
 Tutorial:
