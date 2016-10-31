@@ -1,6 +1,6 @@
 #Analogue Sensing
 
-Create or record an index of some element of the environment. Come to class ready to show your results and documentation of your process. 
+Create or record an index of some element of the environment. You might directly observe a system in some way (drawing, a score, narration etc or you might do so through the constructions of some sort of simple apparartus). Come to class ready to show your results and documentation of your process. 
 You should note, location, why you selected this place or thing, what was your method of documentation or intervention and why 
 you chose this method.
 
