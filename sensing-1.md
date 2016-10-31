@@ -11,6 +11,6 @@ See the links in the resources page of the repository under environmental observ
 
 Consider the following prompts:
 
--How could you use an ephemeral substance like chalk to mark a change in the environment over time?
--How can you use your body to measure an environment or dynamic process within it?
--Is your observation to be a momentary recording, a trace that is left and changed over time, or a comparative observation at a regular interval.
+-How could you use an ephemeral substance like chalk to mark a change in the environment over time?  
+-How can you use your body to measure an environment or dynamic process within it?  
+-Is your observation to be a momentary recording, a trace that is left and changed over time, or a comparative observation at a regular interval.  
