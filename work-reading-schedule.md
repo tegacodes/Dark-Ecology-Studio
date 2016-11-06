@@ -7,6 +7,8 @@
 [Week 5 - 3rd Oct](#5--3rd-oct )  
 [Week 6 - 10th Oct](#6--10th-oct )  
 
+[Week 9 - 31st Oct](#9--31st-oct )  
+
 ###Readings and homework:
 
 Readings are available on the [class Moodle.](http://moodle.purchase.edu/moodle2/course/view.php?id=24943)
@@ -73,7 +75,7 @@ Field trip - Energy Systems
 * Winner, L. (1986). Do Artifacts have Politics? The whale and the reactor: a search for limits in an age of high technology. Chicago, University of Chicago Press, 19-39
 
 ##6 : 10th Oct 
-Sound ethnographies
+[Sound ethnographies
 
 * Field trip reflections and discussion.
 * Reading discussion.
@@ -97,33 +99,44 @@ Sound ethnographies
 
 ###Part 3: Eccentric Interfaces
 
-##9. 31st Oct
+Sense and sensibility.
+##9 : 31st Oct
 *Reading due:*
-* Timothy Morton, 2014, The Ecological Thought. Excerpts.
-Supplementary:
+* Timothy Morton, 2014, The Ecological Thought. (on the Moodle).  
+  
+Supplementary materials:  
 * Tim Morton lecture. [Ecological Awareness 101.](https://archive.org/details/140204001) 
 
+Homework:
+* Reading for next week.
+* [Analogue sensing exercise.](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/sensing-1)
 
-##10. 7th Nov
+##10 : 7th Nov
+* Introduction to environmentalal ethics and concepts.
+Readings for this week.
 * Muecke, Stephen. What the cassowary does not need to know. Australian Humanities Review, 2006.
 * Stone, Christopher D. Should Trees Have Standing--Toward Legal Rights for Natural Objects. 1972.
+Tutorial:
+* Environmental Sensing workshop 1. 
+* Introducing the Particle + p5js
 
 *Reporting back on:* 
+* Topic/research review for final projects.
 
-* Topic literature review presentations.
-
-##11. 14th Nov
+##11 : 14th Nov
 * Bratton, Benjamin H. and Jeremijenko, Natalie. Suspicious images, latent interfaces. Architectural League of New York, 2008.
-
+Tutorial:
+* Environmental Sensing workshop 2. 
+* Introducing the Particle + p5js
 
 ##12. 21st Nov
-* Potter, Emily. "Climate change and the problem of representation." (2009).
+No Class - Thanksgiving.
 
 ##13. 28th Nov
-* All Watched Over by Machines of Loving Grace - Episode 2 - [The Use and Abuse of Vegetational Concepts](https://vimeo.com/groups/96331/videos/80799352)
+* Potter, Emily. "Climate change and the problem of representation." (2009).
 
 ##14. 5th Dec
-Make up class if needed.
+* All Watched Over by Machines of Loving Grace - Episode 2 - [The Use and Abuse of Vegetational Concepts](https://vimeo.com/groups/96331/videos/80799352)
 
 ## 12th Dec
 Final projects due.
