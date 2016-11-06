@@ -102,7 +102,8 @@ Field trip - Energy Systems
 Sense and sensibility.
 ##9 : 31st Oct
 
-[Links from asnalog sensing lecture](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/Lectures/Analogue-Sensing-Lecture.md)
+[Links from asnalog sensing lecture](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/Lectures/Analogue-Sensing-Lecture.md)  
+
 *Reading due:*
 * Timothy Morton, 2014, The Ecological Thought. (on the Moodle).  
   
