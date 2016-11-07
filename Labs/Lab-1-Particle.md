@@ -7,7 +7,7 @@
 ###Getting Setup
 
 * Make an account
-* Setting up [https://docs.particle.io/guide/getting-started/start/photon/). 
+* [Setting up](https://docs.particle.io/guide/getting-started/start/photon/). 
 
 ###Example 1 - An LED and LDR
 * Written [tutorial here.](https://docs.particle.io/guide/getting-started/examples/core/)
