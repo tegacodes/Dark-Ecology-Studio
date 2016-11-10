@@ -2,6 +2,7 @@
 
 Videos
 
+* [What is a microcontroller?](https://vimeo.com/132236994) They are talking about arduino, we are using a particle which is similar - but with wireless(4min)
 * [Introduction to electricity](https://vimeo.com/76442432), Ohm part 1.
 * [Ohm part 2](https://vimeo.com/76442431)
 * [LED Current](https://vimeo.com/78674965)
