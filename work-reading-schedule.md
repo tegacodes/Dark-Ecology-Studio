@@ -8,6 +8,7 @@
 [Week 6 - 10th Oct](#6--10th-oct )  
 [Week 9 - 31st Oct](#9--31st-oct )  
 [Week 10 - 7th Nov](#10--7th-nov ) 
+[Week 11 - 14th Nov](#11--14th-nov ) 
 
 ###Readings and homework:
 
@@ -116,21 +117,24 @@ Homework:
 
 ##10 : 7th Nov
 * Introduction to environmentalal ethics and concepts.
-Readings for this week.
-* Muecke, Stephen. What the cassowary does not need to know. Australian Humanities Review, 2006.
-* Stone, Christopher D. Should Trees Have Standing--Toward Legal Rights for Natural Objects. 1972.
-Tutorial:
+Readings for this week.  
+* Stone, Christopher D. Should Trees Have Standing--Toward Legal Rights for Natural Objects. 1972.  
+Supplementary:  
+* Muecke, Stephen. What the cassowary does not need to know. Australian Humanities Review, 2006.  
+Tutorial:  
 * Environmental Sensing workshop 1. 
-* Introducing the Particle + p5js
+* Introducing the Particle + p5js  
 
-*Reporting back on:* 
-* Topic/research review for final projects.
 
 ##11 : 14th Nov
-* Bratton, Benjamin H. and Jeremijenko, Natalie. Suspicious images, latent interfaces. Architectural League of New York, 2008.
-Tutorial:
-* Environmental Sensing workshop 2. 
-* Introducing the Particle + p5js
+Due:  
+* Bratton, Benjamin H. and Jeremijenko, Natalie. [Suspicious images, latent interfaces. Architectural League of New York, 2008.](http://archleague.org/PDFs/ST3-SituatedAdvocacy.pdf). Read at least until page 27. (Don't panic - there are lots of pictures in there!) 
+* Concept generation slides for final projects.  
+
+Tutorial:  
+* Concept generation session  
+* Environmental Sensing workshop 2.   
+* Particle + p5js  
 
 ##12. 21st Nov
 No Class - Thanksgiving.
