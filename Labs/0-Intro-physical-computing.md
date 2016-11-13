@@ -1,4 +1,4 @@
-0 - Introduction to Physical Computing
+Physical Computing Introductory Tutorials
 
 Videos
 
