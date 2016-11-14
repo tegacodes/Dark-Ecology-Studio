@@ -8,5 +8,4 @@
 * Abby: [http://darkecologystudioresponses.blogspot.com/](http://darkecologystudioresponses.blogspot.com/)
 * Kim: [http://darkwaterofecology.tumblr.com/](http://darkwaterofecology.tumblr.com/)
 * Rob:
-* Otto:
-* Christoph:[parkingandtransportation@purchase.edu](parkingandtransportation@purchase.edu)
+* Christoph:[http://csdarkecology.tumblr.com/](http://csdarkecology.tumblr.com/)
