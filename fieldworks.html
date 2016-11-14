@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("h1").ready(function(){
+        $("#div1").fadeIn(2000);
+        $("#div2").fadeIn(3000);
+        $("#div3").fadeIn(3000);
+
+    });
+});
+</script>
+<title>Field Works</title> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+@import ;
+
+html, body
+{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif, sans-serif;
+}
+
+html
+{
+  background: linear-gradient(0deg, rgba(0,0,0, 0.5) , rgba(0, 0, 0, 0) );
+}
+
+body 
+{
+  background: linear-gradient(190deg, rgba(255, 255, 255, 0.9) , rgba(0, 0, 0, 0) );
+}
+
+.container
+{
+  background: linear-gradient(240deg, rgba(255, 255, 255, 0.9) , rgba(0, 0, 0, 0) );
+  
+    display: flex;
+  flex-direction: column;
+    align-items: left;
+    justify-content: center;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+h1
+{
+  color: white;
+   padding: 15px;
+  font-weight: 100;
+
+}
+
+a
+{
+  color: white;
+  font-weight: 100;
+    letter-spacing: 3.5px;
+
+}
+
+a:link {
+    text-decoration: none;
+      color: rgb(75, 75, 75);
+       color: white;
+    }
+
+a:visited {
+    text-decoration: none;
+      color: white;
+      opacity: 1.0;
+    }
+
+a:hover {
+    text-decoration: none;
+      color: rgb(0, 0, 0);
+      
+  
+    
+    }
+a:active {
+    text-decoration: none;
+      color: rgb(75, 75, 75);
+      color: white;
+    }
+
+.menu{
+
+  background-color: rgb(65,65,65);
+  box-shadow: 5px 5px 10px black;
+      width: 300px;
+      float:left;
+      margin-top: 300px;
+      float:left;
+        position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+ 
+
+}
+
+
+
+
+
+.me
+{
+  position: fixed;
+  bottom: 100px;
+  left: 70%;
+  
+
+  }
+*{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    margin: 0;
+    padding: 0
+}
+
+.slideshow , .slideshow:after {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 0
+    }
+
+
+    
+ .slideshow li span{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+    opacity: 0;
+    z-index: 0;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: transparent;
+        animation: fadeslidshow 72s ease-in-out infinite;
+    -webkit-animation: fadeslidshow 72s ease-in-out infinite;
+    -moz-animation: fadeslidshow 72s ease-in-out infinite;
+    -o-animation: fadeslidshow 72s ease-in-out infinite;
+    -ms-animation: fadeslidshow 72s ease-in-out infinite;
+ }   
+ .slideshow li div {
+    z-index: 1000;
+    position: absolute;
+    bottom: 30px;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    opacity: 0;
+    color: #fff;
+    animation: fadeslidshow 72s ease-in-out infinite;
+    -webkit-animation: fadeslidshow 72s ease-in-out infinite;
+    -moz-animation: fadeslidshow 72s ease-in-out infinite;
+    -o-animation: fadeslidshow 72s ease-in-out infinite;
+    -ms-animation: fadeslidshow 72s ease-in-out infinite;
+    }   
+ .slideshow li div h3 { 
+    font-size: 50px;
+    padding: 0;
+    line-height: 200px; 
+}   
+.slideshow li:nth-child(1) span {
+    background-image: url(galleryImages/1.jpg);
+    }
+.slideshow li:nth-child(2) span { 
+    background-image:  url(galleryImages/gal12.jpg);
+    animation-delay: 6s;
+    -webkit-animation-delay: 6s;
+    -o-animation-delay: 6s;
+    -moz-animation-delay: 6s;
+    -ms-animation-delay: 6s;}
+.slideshow li:nth-child(3) span { 
+    background-image: url(galleryImages/3.jpg);
+    animation-delay: 12s;
+    -webkit-animation-delay: 12s;
+    -o-animation-delay: 12s;
+    -moz-animation-delay: 12s;
+    -ms-animation-delay: 12s;}
+.slideshow li:nth-child(4) span { 
+    background-image:  url(galleryImages/gal27.jpg);
+    animation-delay: 18s;
+    -webkit-animation-delay: 18s;
+    -o-animation-delay: 18s;
+    -moz-animation-delay: 18s;
+    -ms-animation-delay: 18s;
+}
+.slideshow li:nth-child(5) span { 
+    background-image:  url(galleryImages/5.jpg);
+    animation-delay: 24s;
+    -webkit-animation-delay: 24s;
+    -o-animation-delay: 24s;
+    -moz-animation-delay: 24s;
+    -ms-animation-delay: 24s; 
+}
+.slideshow li:nth-child(6) span { 
+    background-image:  url(galleryImages/12.jpg);
+    animation-delay: 30s;
+    -webkit-animation-delay: 30s;
+    -o-animation-delay: 30s;
+    -moz-animation-delay: 30s;
+    -ms-animation-delay: 30s; 
+}
+.slideshow li:nth-child(7) span { 
+    background-image:  url(galleryImages/gal11.jpg);
+    animation-delay: 36s;
+    -webkit-animation-delay: 36s;
+    -o-animation-delay: 36s;
+    -moz-animation-delay: 36s;
+    -ms-animation-delay: 36s; 
+}
+
+.slideshow li:nth-child(8) span { 
+    background-image:  url(galleryImages/gal40.jpg);
+    animation-delay: 42s;
+    -webkit-animation-delay: 42s;
+    -o-animation-delay: 42s;
+    -moz-animation-delay: 42s;
+    -ms-animation-delay: 42s; 
+}
+
+.slideshow li:nth-child(9) span { 
+    background-image:  url(galleryImages/gal17.jpg);
+    animation-delay: 48s;
+    -webkit-animation-delay: 48s;
+    -o-animation-delay: 48s;
+    -moz-animation-delay: 48s;
+    -ms-animation-delay: 48s; 
+}
+
+.slideshow li:nth-child(10) span { 
+    background-image:  url(galleryImages/gal8b.jpg);
+    animation-delay: 54s;
+    -webkit-animation-delay: 54s;
+    -o-animation-delay: 54s;
+    -moz-animation-delay: 54s;
+    -ms-animation-delay: 54s; 
+}
+.slideshow li:nth-child(11) span { 
+    background-image:  url(galleryImages/gal42.png);
+    animation-delay: 60s;
+    -webkit-animation-delay: 60s;
+    -o-animation-delay: 60s;
+    -moz-animation-delay: 60s;
+    -ms-animation-delay: 60s; 
+}
+
+ @-webkit-keyframes  fadeslidshow {
+    0%,100%,24%{opacity: 0}
+    8%{opacity: 1}
+    16%{opacity: 1}
+    
+ }
+ 
+ @-moz-keyframes  fadeslidshow {
+    0%,100%,24%{opacity: 0}
+    8%{opacity: 1}
+    16%{opacity: 1}
+    
+ }
+ 
+ @-o-keyframes  fadeslidshow {
+    0%,100%,24%{opacity: 0}
+    8%{opacity: 1}
+    16%{opacity: 1}
+    
+ }
+ 
+ 
+ @-ms-keyframes  fadeslidshow {
+    0%,100%,24%{opacity: 0}
+    8%{opacity: 1}
+    16%{opacity: 1}
+    
+ }
+ @keyframes  fadeslidshow {
+    0%,100%,24%{opacity: 0}
+    8%{opacity: 1}
+    16%{opacity: 1}
+    
+ }
+
+
+ 
+ 
+
+</style>
+</head>
+<nav class="slideshow">
+    <ul>
+        <li>
+            <span>image-1</span>
+            <div><h3></h3></div>
+        </li>
+        <li>
+            <span>image-2</span>
+            <div><h3> </h3></div>
+        </li>
+        <li>
+            <span>image-3</span>
+            <div><h3></h3></div>
+        </li>
+        <li>
+            <span>image-4</span>
+            <div><h3></h3></div>
+        </li>
+        <li>
+            <span>image-5</span>
+            <div><h3></h3></div>
+        </li>
+        <li>
+            <span>image-6</span>
+            <div><h3></h3></div>
+        </li>
+         <li>
+            <span>image-7</span>
+            <div><h3></h3></div>
+        </li>
+          <li>
+            <span>image-8</span>
+            <div><h3></h3></div>
+        </li>
+         <li>
+            <span>image-9</span>
+            <div><h3></h3></div>
+        </li>
+         <li>
+            <span>image-10</span>
+            <div><h3></h3></div>
+        </li>
+         <li>
+            <span>image-11</span>
+            <div><h3></h3></div>
+        </li>
+    </ul>
+    
+    
+    
+</nav>
+
+</body>
+<body>
+<div class="container">
+  <h1></h1>
+</div>
+
+<div class="me">
+<div class="menu">
+
+<div id="div1" style="display: none;">
+<a href="./index.html" style="font-weight:600; color: rgb(40,40,40);"> <br></a>
+</div>
+<div id="div2" style="display: none;">
+<a href="overview.html">OVERVIEW</a>
+<br>
+<a href="dates.html">DATES & EXHIBITION SPACE</a>
+<br>
+<a href="artists.html">ARTIST WORKS</a>
+<br>
+<a href="contact.html">FIELD GUIDES</a>
+<br>
+</div>
+</div>
+
+</div>
+<center>
+
+<center><p style="font-size:55%">"FIELD WORKS" (2016) HANDMADE BY &copy; OC </p>
+</body>
+
+</html>
