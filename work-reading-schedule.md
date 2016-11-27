@@ -7,8 +7,8 @@
 [Week 5 - 3rd Oct](#5--3rd-oct )  
 [Week 6 - 10th Oct](#6--10th-oct )  
 [Week 9 - 31st Oct](#9--31st-oct )  
-[Week 10 - 7th Nov](#10--7th-nov ) 
-[Week 11 - 14th Nov](#11--14th-nov ) 
+[Week 10 - 7th Nov](#10--7th-nov )  
+[Week 11 - 14th Nov](#11--14th-nov )   
 
 ###Readings and homework:
 
@@ -140,7 +140,7 @@ Tutorial:
 No Class - Thanksgiving.
 
 ##13. 28th Nov
-* Potter, Emily. "Climate change and the problem of representation." (2009).
+* Potter, Emily. ["Climate change and the problem of representation." (2009).](http://www.australianhumanitiesreview.org/archive/Issue-May-2009/potter.htm)
 
 ##14. 5th Dec
 * All Watched Over by Machines of Loving Grace - Episode 2 - [The Use and Abuse of Vegetational Concepts](https://vimeo.com/groups/96331/videos/80799352)
