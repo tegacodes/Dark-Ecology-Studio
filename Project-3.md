@@ -30,3 +30,5 @@ Brainstorm responses for the following questions.
 * Design a data visualization/viceralization project of a natural system and then try to flip who is being sensed and who is doing the sensing.
 * Create an interactive interface that makes it harder to get information not easier. Make your interface seamful.
 * Devise a way for a natural system to participate in a political action or process.
+
+Still stuck?[Work through these steps for concept generation](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/concept-dev.md)
