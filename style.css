@@ -55,13 +55,13 @@ a:hover {
 	border-bottom: 2px solid #182afa;
 
 
-	
+
 }
 
 h1 {
 
 	font-size: 1em;
-	
+
 }
 
 /*------------ CONTENT -----------*/
@@ -120,8 +120,8 @@ img {
 
 /*------------ MOBILE -----------*/
 
-@media only screen 
-and (min-device-width : 320px) 
+@media only screen
+and (min-device-width : 320px)
 and (max-device-width : 480px) {
 
 
