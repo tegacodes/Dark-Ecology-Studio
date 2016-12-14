@@ -13,7 +13,7 @@
 
 ## Project 3: Eccentric interface
 
-* Kevin Egbert, [Immersive birdwatching](http://kevinegbert.com/birdwatching/
+* Kevin Egbert, [Immersive birdwatching](http://kevinegbert.com/birdwatching/)
 * Abby and Alex, 
 * Ian
 
