@@ -1,0 +1,137 @@
+<html> 
+<head>
+<title>The Living Cemetery</title>
+<link href="https://fonts.googleapis.com/css?family=Snowburst+One" rel="stylesheet">
+<style>
+
+body{
+	background-color: black;
+	font-family: 'Snowburst One', cursive;
+
+}
+
+.button{
+	cursor: pointer;
+}
+}
+
+</style>
+</head>
+<body>
+<a href="index.html"><font color="grey"><h5>The Living Cemetery</h5></a>
+
+
+<br>
+<br>
+<br>
+<br>
+
+<center>
+
+<img name="firstgrave" id="firstgrave" src="../images/grave1editt.jpeg" border="0"  width="1350" height="386" alt="grave map" usemap="#gravemap" /> 
+
+<map name="gravemap" id="gravemap">
+
+
+<area href="stone1.html" shape="rect" coords="111,127,142,161"  title"stone1"   alt="stone1" />
+
+<area href="stone2.html" shape="rect" coords="379, 94, 450, 167"  title"stone2"   alt="stone2" />
+
+<area href="litter.html" shape="rect" coords="1183,312,1228,359"  title"litter"   alt="litter" />
+</map>
+</center>
+
+<div id="footer">
+<div class="button"><a href="index.html"><img src="../images/backarrow.png" align=left></a>
+<div class="button"><a href="other.html"><img src="../images/nextarrow.png" align=right></a></div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table>
+<tr>
+<td>
+<audio controls autoplay>
+<source src="../images/soundfile.mp3" type="audio/mpeg" loop="true">
+</audio></td>
+<td><a href="noise.html"><img src="../images/soundbuttonq.png"></a></td>
+</tr>
+</table>
+
+<script>
+
+function setCookie(c_name,value,exdays)
+{
+    var exdate=new Date();
+    exdate.setDate(exdate.getDate() + exdays);
+    var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+    document.cookie=c_name + "=" + c_value;
+}
+
+function getCookie(c_name)
+{
+    var i,x,y,ARRcookies=document.cookie.split(";");
+    for (i=0;i<ARRcookies.length;i++)
+    {
+      x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+      y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+      x=x.replace(/^\s+|\s+$/g,"");
+      if (x==c_name)
+        {
+        return unescape(y);
+        }
+      }
+}
+
+var song = document.getElementsByTagName('audio')[0];
+var played = false;
+var tillPlayed = getCookie('timePlayed');
+function update()
+{
+    if(!played){
+        if(tillPlayed){
+        song.currentTime = tillPlayed;
+        song.play();
+        played = true;
+        }
+        else {
+                song.play();
+                played = true;
+        }
+    }
+
+    else {
+    setCookie('timePlayed', song.currentTime);
+    }
+}
+setInterval(update,1000);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</font>
+</body>
+</html> 
