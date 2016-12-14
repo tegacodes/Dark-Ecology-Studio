@@ -37,6 +37,7 @@ Still stuck? [Work through these steps for concept generation](https://github.co
 You are to accompany your project with a set of slides or a doc containing documentation of your project development as is outlined in the [concept development steps.](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/concept-dev.md)
 
 Your submission should include:
+
 1. Your project title.
 2. A description of you work that addresses the questions in step 2
 3. Project documentation as outlined in step 4: 
