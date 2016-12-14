@@ -39,8 +39,8 @@ You are to accompany your project with a set of slides or a doc containing docum
 Your submission should include:
 
 1. Your project title.
-2. A description of you work that addresses the questions in step 2
-3. Project documentation as outlined in step 4: 
+2. A description of your work that addresses the questions in step 2 (include references).
+3. Project documentation as outlined in step 4. 
 
 Video, photography, sketching, interviews and/or live performance you should document your prototype in use. Your documentation should demonstrate how your design proposal will innovatively extend human-environment relations.
 
