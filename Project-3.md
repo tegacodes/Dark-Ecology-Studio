@@ -31,4 +31,15 @@ Brainstorm responses for the following questions.
 * Create an interactive interface that makes it harder to get information not easier. Make your interface seamful.
 * Devise a way for a natural system to participate in a political action or process.
 
-Still stuck?[Work through these steps for concept generation](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/concept-dev.md)
+Still stuck? [Work through these steps for concept generation](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/concept-dev.md)
+
+**Submission requirements**
+You are to accompany your project with a set of slides or a doc containing documentation of your project development as is outlined in the [concept development steps.](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/concept-dev.md)
+
+Your submission should include:
+1. Your project title.
+2. A description of you work that addresses the questions in step 2
+3. Project documentation as outlined in step 4: 
+
+Video, photography, sketching, interviews and/or live performance you should document your prototype in use. Your documentation should demonstrate how your design proposal will innovatively extend human-environment relations.
+
