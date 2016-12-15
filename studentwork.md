@@ -14,7 +14,7 @@
 ## Project 3: Eccentric interface
 
 * Kevin Egbert, [Immersive birdwatching](http://kevinegbert.com/birdwatching/)
-* Abby and Alex, [The Living Cemetary](http://tegacodes.github.io/Dark-Ecology-Studio/graveyard/html/1.html)
+* Abby and Alex, [The Living Cemetary](http://tegacodes.github.io/Dark-Ecology-Studio/graveyard/html/index.html)
 * Ian
 
 
