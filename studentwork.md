@@ -2,10 +2,10 @@
 
 ##Project 1
 
-* Waster systems field guide [pdf](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/guides/Kevin%20EGBERT_817205_assignsubmission_file_dark_eco_final_water.pdf)
-* Electrical infrastructure field guide
-* Technology and Communications field guide [pdf](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/guides/Christoph%20SAWYER_817212_assignsubmission_file_christophsawyer_fieldguide_final.pdf)
-* Solid waste field guide[pdf](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/guides/Odanis%20COLON_817213_assignsubmission_file_Waste%204.pdf)
+* Waster systems field guide [[pdf]](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/guides/Kevin%20EGBERT_817205_assignsubmission_file_dark_eco_final_water.pdf)
+* Electrical infrastructure field guide [pdf]
+* Technology and Communications field guide [[pdf]](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/guides/Christoph%20SAWYER_817212_assignsubmission_file_christophsawyer_fieldguide_final.pdf)
+* Solid waste field guide [[pdf]](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/guides/Odanis%20COLON_817213_assignsubmission_file_Waste%204.pdf)
 
 ## Project 2: Systems listening
 
@@ -16,7 +16,8 @@
 * Alex Patrascu, [Communication Breakdown](http://tegacodes.github.io/Dark-Ecology-Studio/alex.html)
 * Odonis Colon, [Recycled Sound](http://tegacodes.github.io/Dark-Ecology-Studio/odanis.html)
 * Kimberley Guzman, [La spazzatura e L'aqua](http://tegacodes.github.io/Dark-Ecology-Studio/kimberley.html)
-* Matthew Tuckerman, (Wasterwater Soundscape)[http://tegacodes.github.io/Dark-Ecology-Studio/matthew.html]
+* Matthew Tuckerman, [Wasterwater Soundscape](http://tegacodes.github.io/Dark-Ecology-Studio/matthew.html)
+* Robert Ashkinos, [Behind the Action](http://tegacodes.github.io/Dark-Ecology-Studio/Robert.html)
 
 
 ## Project 3: Eccentric interface
