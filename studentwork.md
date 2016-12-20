@@ -37,5 +37,4 @@
 * Abby: [http://darkecologystudioresponses.blogspot.com/](http://darkecologystudioresponses.blogspot.com/)
 * Kim: [http://darkwaterofecology.tumblr.com/](http://darkwaterofecology.tumblr.com/)
 * Christoph:[http://csdarkecology.tumblr.com/](http://csdarkecology.tumblr.com/)
-* Rob:
-* Ian:
+
