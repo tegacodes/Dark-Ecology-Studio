@@ -1,5 +1,7 @@
 #Archive of Student Work 
 
+* [Fieldworks exhibition site.](http://tegacodes.github.io/Dark-Ecology-Studio/)
+
 ##Project 1
 
 * Waster systems field guide [[pdf]](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/guides/Kevin%20EGBERT_817205_assignsubmission_file_dark_eco_final_water.pdf)
