@@ -13,7 +13,6 @@ Audrey 2.0 is a vision for a future where the environment is given a voice throu
 ####Images
 
 ![Audrey](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/images/Christoph-Final/IMG_4460.JPG?raw=true)
-![Audrey](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/images/Christoph-Final/IMG_4460.JPG?raw=true)
 ![Audrey](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/images/Christoph-Final/IMG_4456.JPG?raw=true)
 ![Audrey](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/images/Christoph-Final/IMG_4453.JPG?raw=true)
 ![Audrey](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/images/Christoph-Final/Screen%20Shot%202016-12-28%20at%209.42.33%20PM.png?raw=true)
