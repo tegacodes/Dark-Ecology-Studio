@@ -26,6 +26,9 @@
 
 * Kevin Egbert, [Immersive birdwatching](http://kevinegbert.com/birdwatching/)
 * Abby and Alex, [The Living Cemetary](http://tegacodes.github.io/Dark-Ecology-Studio/graveyard/html/index.html)
+* Christoph Sawyer and Kimberley Guzman, [Audrey 2.0](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/Christoph-Kim-final.md)
+* Ian Mcconchie, [Smokey the Robot](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/ian-final.md)
+* Odonis Colon, [Life Lung](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/odonis-final.md)
 
 ##Readings blog
 
