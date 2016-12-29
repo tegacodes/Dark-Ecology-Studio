@@ -11,7 +11,7 @@ Audrey 2.0 is a vision for a future where the environment is given a voice throu
 * Water sensor, light sensor
 
 ####Images
-
+![Audrey](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/images/Christoph-Final/QIAA1811.jpg?raw=true)
 ![Audrey](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/images/Christoph-Final/IMG_4460.JPG?raw=true)
 ![Audrey](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/images/Christoph-Final/IMG_4456.JPG?raw=true)
 ![Audrey](https://github.com/tegacodes/Dark-Ecology-Studio/blob/gh-pages/images/Christoph-Final/IMG_4453.JPG?raw=true)
