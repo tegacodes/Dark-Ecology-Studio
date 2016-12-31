@@ -1,6 +1,6 @@
 #Archive of Student Work 
 
-* [Fieldworks exhibition site.](http://tegacodes.github.io/Dark-Ecology-Studio/)
+* [Fieldworks exhibition site.](http://tegacodes.github.io/Dark-Ecology-Studio/fieldworks.html)
 
 ##Project 1
 
