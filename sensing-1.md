@@ -1,4 +1,4 @@
-#Analogue Sensing
+# Analogue Sensing
 
 Create or record an index of some element of the environment. You might directly observe a system in some way (using drawing, creating a score, a narration, or you might do so through the constructions of some sort of simple apparartus to create indexes). Come to class ready to show your results and some documentation of your process. 
 
