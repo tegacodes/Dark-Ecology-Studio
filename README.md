@@ -7,20 +7,20 @@
 Monday 12-1pm.   
 Wednesday: 2.30-3.30pm  
 
-##Description
+## Description
 Ours is a time of dark ecology, where humans have become an environmental force. What does this mean for what we understand the environment to be and our relationship to it? This course investigates diverse local systems such as power grids, water infrastructures and ecoystems around campus. Students will be introduced to methods drawn from both scientific and artistic modes of inquiry including recording, mapping, poetic and scientific sensing, visualization, and photography.  How can we explicate the systems that sustain us? How might public interventions shift how we perceive and represent our deep connections to environmental systems? 
 
-##[Schedule/Readings/Homework](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/work-reading-schedule.md)
-##[Course Content and assignments](http://www.des.tegabrain.com)
+## [Schedule/Readings/Homework](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/work-reading-schedule.md)
+## [Course Content and assignments](http://www.des.tegabrain.com)
 
-##Links
+## Links
 
 * Class repository: [https://github.com/tegacodes/Dark-Ecology-Studio](https://github.com/tegacodes/Dark-Ecology-Studio)
 * Readings and lectures on moodle: [http://moodle.purchase.edu/moodle2/course/view.php?id=24943](http://moodle.purchase.edu/moodle2/course/view.php?id=24943)
 * [Practice references](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/References.md)
 * [Supplementary Resources](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/Supplementary.md)
 
-##Objectives
+## Objectives
 Students successfully completing all aspects of this subject will:
 
 * Demonstrate an introductory understanding of ecocritical theorya and sociology of technology. 
@@ -29,7 +29,7 @@ Students successfully completing all aspects of this subject will:
 * Have furthered their experience and skills in negotiating interdisciplinary creative production.
 
 
-##Grading
+## Grading
 **Part 1 (25%)**
 Assignment 1 5% literature review
 Assignment 1 20% for field guide
@@ -57,7 +57,7 @@ Attendence 10%
 * Indian Point Nuclear Power plant
 (lunch provided)
 
-##Course Structure
+## Course Structure
 Lectures, readings and research on topics such as:
 
 * ecocritical theory
@@ -66,7 +66,7 @@ Lectures, readings and research on topics such as:
 * ethnographic research methods
 
 
-###Schedule
+### Schedule
 For a detailed schedule, with homework and reading requirements [go here.](https://github.com/tegacodes/Dark-Ecology-Studio/blob/master/work-reading-schedule.md)
 
 |Week |Lecture/Topic/Content | Tutorial/Workshop |Assessment Due Date |
@@ -87,11 +87,11 @@ For a detailed schedule, with homework and reading requirements [go here.](https
 | Week 13 |Design strategies|<ul><li>Studio</li></ul>|| 
 | Week 14 |No lecture|<ul><li>Project setup.</li></ul>|Final projects due| 
 
-###Attendence
+### Attendence
 Miss more than 3 classes and you fail. Turn up more than half an hour late and receive half an absence. 
  
 
-###Readings
+### Readings
 
 * Jedediah Purdy, 2015, [Anthopocene Fever.](https://aeon.co/essays/should-we-be-suspicious-of-the-anthropocene-idea)
 * Larkin, Brian. "The politics and poetics of infrastructure." Annual Review of Anthropology 42 (2013): 327-343.
