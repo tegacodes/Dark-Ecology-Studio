@@ -1,6 +1,6 @@
-#Practice
+# Practice
 
-####Part 1: Infrastructure Taxonomies
+#### Part 1: Infrastructure Taxonomies
 
 Field Guides/Databases/Tours
 
@@ -17,7 +17,7 @@ Field Guides/Databases/Tours
 * [Toxic Sites,](http://www.toxicsites.us/) Brooke Singer
 
 
-####Part 2: Investigating Systems
+#### Part 2: Investigating Systems
 
 Sound Ethnography/Acoustic Ecology
 
@@ -40,7 +40,7 @@ Related Readings
 * A Short History of [Acoustic Ecology](https://soundcloud.com/wordthecat/a-short-history-of-acoustic). (Documentary, 28min).
 * [An introduction to acoustic ecology.](http://ciufo.org/classes/ae_fl13/reading/Intro_AE.pdf), Kendall Wrightson.
 
-####Part 3: Eccentric Interfaces
+#### Part 3: Eccentric Interfaces
 
 
 tbd
