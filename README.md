@@ -45,7 +45,7 @@ Assignment 3 25%
 Readings blog posts 10%  
 Attendence 10%
 
-###Field trips
+### Field trips
 
 **September 19th, 1-4pm**
 
